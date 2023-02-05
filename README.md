@@ -1,2 +1,3 @@
-# pelab
-Stevens Institute of Technology Physics Educational Laboratory
+# Physics Educational Laboratory
+## SIT
+Stevens Institute of Technology - Physics Educational Laboratory
